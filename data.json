@@ -2,30 +2,12 @@
   "instructors": [
     {
       "id": 1,
-      "avatar_url": "http://teste.com/foto.jpg",
-      "name": "Joaquim Barbosa",
-      "birth": -7603200000,
-      "gender": "M",
-      "services": "Masculaçao, Corrida",
-      "created_at": 1584026693473
-    },
-    {
-      "id": 2,
-      "avatar_url": "http://sdfsfd.com",
+      "avatar_url": "https://www.vittude.com/blog/wp-content/uploads/otimismo-3.jpg",
       "name": "Jose",
-      "birth": 1582502400000,
+      "birth": 1582761600000,
       "gender": "M",
-      "services": "werwer",
-      "created_at": 1584104350336
-    },
-    {
-      "id": 3,
-      "avatar_url": "http://asads.com",
-      "name": "Maria",
-      "birth": 1565568000000,
-      "gender": "F",
-      "services": "tereasdasd",
-      "created_at": 1584105320497
+      "services": "sdfsdf",
+      "created_at": 1584118781256
     }
   ]
 }
