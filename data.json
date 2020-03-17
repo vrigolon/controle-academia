@@ -2,12 +2,30 @@
   "instructors": [
     {
       "id": 1,
-      "avatar_url": "https://www.vittude.com/blog/wp-content/uploads/otimismo-3.jpg",
-      "name": "Jose",
-      "birth": 1582761600000,
+      "avatar_url": "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/09/Bruce-Springsteen-na-academia-lindoooo.jpg",
+      "name": "Mario da Silva",
+      "birth": 367113600000,
       "gender": "M",
-      "services": "sdfsdf",
+      "services": "Academia",
       "created_at": 1584118781256
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://vivasaude.digisa.com.br/upload/imagens_upload/5_motivos_para_praticar_a_corrida.jpg",
+      "name": "José Pereira",
+      "birth": 1172620800000,
+      "gender": "M",
+      "services": "Corrida",
+      "created_at": 1584447845082
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://img.r7.com/images/2015/02/25/9sjletpafn_8qepewrc4y_file",
+      "name": "Pedro Silveira",
+      "birth": 692409600000,
+      "gender": "M",
+      "services": "Crossfit",
+      "created_at": 1584448015911
     }
   ]
 }
