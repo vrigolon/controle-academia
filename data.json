@@ -1,5 +1,39 @@
 {
-  "members": [],
+  "members": [
+    {
+      "avatar_url": "https://st.depositphotos.com/1026550/2949/i/950/depositphotos_29493417-stock-photo-funny-retro-sports-nerd.jpg",
+      "name": "Rodolfo Geremias",
+      "email": "rod99@yahoo.com",
+      "birth": 930614400000,
+      "gender": "M",
+      "blood": "AB+",
+      "weight": "57",
+      "height": "170",
+      "id": 1
+    },
+    {
+      "avatar_url": "https://lh3.googleusercontent.com/proxy/PcaVqPe8hpMx-WNgyRJaljPFUc2nsfO-136Ea-8tfUJMKTdWEIgDhffGrz5aFYhVq2IXw8-TYG6u1Td7IHktvp359LXOvBw_5uxVooZuv_IdhJgppkZQmLZ21DGCZnPegYBs",
+      "name": "Enzo Gabriel",
+      "email": "fortniteallday@gmail.com",
+      "birth": 1176854400000,
+      "gender": "M",
+      "blood": "O-",
+      "weight": "44",
+      "height": "169",
+      "id": 2
+    },
+    {
+      "avatar_url": "https://www.saradosimples.com.br/wp-content/uploads/2018/04/esteira-gordo.jpg",
+      "name": "Tobias Amaral",
+      "email": "tobamaral@gmail.com",
+      "birth": 879465600000,
+      "gender": "M",
+      "blood": "AB-",
+      "weight": "110",
+      "height": "170",
+      "id": 3
+    }
+  ],
   "instructors": [
     {
       "id": 1,
